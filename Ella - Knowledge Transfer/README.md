@@ -42,6 +42,10 @@ Agent Level Workflow
 ## Running Locally
 - [Link to Guide](https://github.com/ishank-dev/google-adk-hackathon/blob/main/local_setup.md)
 
+## Acknowledgement
+- @ishank-dev - RAG Setup with Google ADK
+- @sedhha - Slack Bot
+- @kotianshivani - Slack Bot + Deck Presentation
 ## Contributing
 Pull requests are welcome! 🌟
 © 2025 Ella | All Rights Reserved
