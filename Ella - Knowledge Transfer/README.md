@@ -46,6 +46,9 @@ Agent Level Workflow
 - @ishank-dev - RAG Setup with Google ADK
 - @sedhha - Slack Bot
 - @kotianshivani - Slack Bot + Deck Presentation
+
+This project was developed during as a part of google adk hackathon, all new updates will be a part of this current repository : )
+
 ## Contributing
 Pull requests are welcome! 🌟
 © 2025 Ella | All Rights Reserved
